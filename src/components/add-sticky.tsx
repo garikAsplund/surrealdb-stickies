@@ -10,8 +10,8 @@ import React, { useCallback } from 'react';
 export const style = cva('', {
     variants: {
         color: {
-            purple: 'bg-purple-sticky',
-            pink: 'bg-pink-sticky',
+            purple: 'bg-purple-600',
+            pink: 'bg-pink-600',
         },
     },
 });

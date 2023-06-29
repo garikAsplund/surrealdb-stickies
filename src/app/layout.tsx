@@ -21,7 +21,7 @@ export default function RootLayout({
         <html lang="en">
             <body
                 className={cn(
-                    'flex h-screen flex-col bg-dots',
+                    'flex h-screen flex-col',
                     poppins.className
                 )}
             >

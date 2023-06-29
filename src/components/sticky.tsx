@@ -16,8 +16,8 @@ import React, {
 export const style = cva('', {
     variants: {
         color: {
-            purple: 'bg-purple-sticky',
-            pink: 'bg-pink-sticky',
+            purple: 'bg-purple-500',
+            pink: 'bg-pink-400',
         },
     },
 });
